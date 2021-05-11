@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Points Project</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="points">Points</string>
+    <string name="channel_name">PointsChannel</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="transaction">Transactions</string>
+    <string name="edit_profile">EditProfile</string>
+    <string name="user_fragment">"HomeAdmin"</string>
+    <string name="details_fragment_name">DetailsAdmin</string>
+    <string name="payment">Payment</string>
+    <string name="redeemed">Redeemed</string>
+    <string name="redeemed_user">RedeemedUsers</string>
+    <string name="admin_transaction">AdminTransactions</string>
+    <string name="search">Search</string>
+</resources>
